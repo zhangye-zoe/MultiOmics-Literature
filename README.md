@@ -9,24 +9,26 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **[Longitudinal omics data analysis: approaches and applications](https://www.sciencedirect.com/science/article/pii/S2001037026000012)** 
   `Computational and Structural Biotechnology Journal, 2026`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.sciencedirect.com/science/article/pii/S2001037026000012)
   > The paper reviews statistical and computational methods for analyzing longitudinal omics data. It summarizes modeling approaches, functional data analysis, classification, survival analysis, and emerging methods for multi-omics integration and network-based modeling.
 
 
 - **[A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false)**
   `Briefings in Bioinformatics, 2025`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false)
   > The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
 
 - **[A comprehensive review of spatial transcriptomics data alignment and integration](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false)** 
   `Nucleic Acids Research, 2025`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false)
   > The study reviews methodologies for spatial transcriptomics data alignment and integration, discusses key challenges, and proposes a general analysis pipeline. Existing approaches are categorized into statistical mapping, image processing and registration, and graph-based methods according to this framework.
 
-
-
 - **[Omics data integration in computational biology viewed through the prism of machine learning paradigms](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full)** 
   `Frontiers in Bioinformatics, 2023`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full)
   > The paper systematically reviews the paradigms, methods, and datasets developed for multi-omics data integration. The survey categorizes existing approaches into vertical integration, horizontal integration, and diagonal / mosaic integration.
   > <strong><span style="color:rgb(110, 18, 150);"> ⭐ Recommended as a starting review for researchers new to this field.</span></strong>
@@ -34,6 +36,7 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **[Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7)** 
   `Nature Biotechnology, 2021`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.nature.com/articles/s41587-021-00895-7)
   > This is an authoritative review paper that introduces and defines several fundamental concepts in single-cell multi-omics integration.
 
@@ -41,9 +44,9 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **[A Review of Integrative Imputation for Multi-Omics Datasets](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.570255/full)** 
   `Frontiers in Genetics, 2020`
+
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.570255/full)
   > The paper provides a summary of imputation methods used in multi-omics datasets, covering approaches such as single-omics imputation, genotype imputation, gene expression data imputation, and epigenomic data imputation.
-
 
 
 
@@ -146,6 +149,7 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **[Causal disentanglement for single-cell representations and controllable counterfactual generation](https://www.nature.com/articles/s41467-025-62008-1)**
   `Nature Communications, 2025`
+
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/bm2-lab/CausCell) [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Docs](https://img.shields.io/badge/Docs-SIMBA-brown)](https://simba-bio.readthedocs.io//)
   > The paper proposes CausCell, a diffusion-based framework designed to disentangle cellular representations from spatiotemporal omics data. The method is evaluated in both disentanglement and reconstruction scenarios, demonstrating superior performance compared with existing approaches.
 
