@@ -29,7 +29,7 @@ This repository curates representative papers in **multi-omics research**, along
   `Frontiers in Bioinformatics, 2023`
   [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR) [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full)
   > The paper systematically reviews the paradigms, methods, and datasets developed for multi-omics data integration. The survey categorizes existing approaches into vertical integration, horizontal integration, and diagonal / mosaic integration.
-  <strong><span style="color:rgb(110, 18, 150);"> ⭐ Recommended as a starting review for researchers new to this field.</span></strong>
+  > <strong><span style="color:rgb(110, 18, 150);"> ⭐ Recommended as a starting review for researchers new to this field.</span></strong>
 
 
 - **[Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7)** 
@@ -123,7 +123,7 @@ This repository curates representative papers in **multi-omics research**, along
   `Nature Methods, 2025`
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/cantinilab/stories) [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR)
   > The paper propose STORIES based on optimal transport to infer cell trajectories from spatial transcriptomics data.
-  <strong><span style="color:rgb(110, 18, 150);"> ⭐ Worth Reading. </span></strong>
+  > <strong><span style="color:rgb(110, 18, 150);"> ⭐ Worth Reading. </span></strong>
 
 
 - **[TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x)**
