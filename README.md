@@ -1,8 +1,9 @@
 ## 📚 Multi-Omics Literature Collection
 
 
-This repository curates representative papers in **multi-omics research**, along with **personal reading notes**. The collection is updated periodically to track recent advances in **computational biology**. 
-📬 **Contact:** If you have questions and suggestions, feel free to reach out **Ye Zhang** at **zhangye_zoe@163.com**
+This repository curates representative papers in **multi-omics research**, along with **personal reading notes**. The collection is updated periodically to track recent advances in **computational biology**. 📬 **Contact:** If you have questions and suggestions, feel free to reach out **Ye Zhang** at **zhangye_zoe@163.com**
+
+---
 
 ## 📑 Table of Contents
 
@@ -23,6 +24,8 @@ This repository curates representative papers in **multi-omics research**, along
 - [🧬 06. Multi-omics Generation](#05-multi-omics-generation)
 
 - [📊 07. Models, Tasks and Datasets Summary](#07-models-tasks-and-datasets-summary)
+
+---
 
 ### 00. Review Article
 
@@ -69,7 +72,7 @@ This repository curates representative papers in **multi-omics research**, along
   > The paper provides a summary of imputation methods used in multi-omics datasets, covering approaches such as single-omics imputation, genotype imputation, gene expression data imputation, and epigenomic data imputation.
 
 
-
+---
 
 ### 01. Multi-omics Integration
 **Single-Cell Model**
@@ -138,7 +141,7 @@ This repository curates representative papers in **multi-omics research**, along
     > The paper presents GreedyFHist aligning serial image  including H&E stained WSI image and MSI image.
 
 
-
+---
 
 ### 02. Regulatory Inference
 
@@ -148,6 +151,11 @@ This repository curates representative papers in **multi-omics research**, along
 
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/sjl-sjtu/scMRDR) [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR)
   > The paper presents 
+
+
+
+---
+
 
 ### 03. Trajectory Inference
 
@@ -174,7 +182,7 @@ This repository curates representative papers in **multi-omics research**, along
 
 
 
-
+---
 
 
 ### 04. Perturbution Analysis
@@ -242,7 +250,7 @@ This repository curates representative papers in **multi-omics research**, along
   > The paper introduces
 
 
-
+---
 
 
 ### 05. Representation Learning
@@ -266,6 +274,8 @@ This repository curates representative papers in **multi-omics research**, along
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/daifengwanglab/JAMIE) [![Notes](https://img.shields.io/badge/Notes-Reading-green)](https://zhangye-zoe.github.io/notes/scMRDR)
   > The paper presents 
 
+
+---
 
 ### 06. Multi-omics Generation
 
