@@ -1,4 +1,4 @@
-# 📚 Multi-Omics Literature Collection
+## 📚 Multi-Omics Literature Collection
 
 
 This repository curates representative papers in **multi-omics research**, along with **personal reading notes**. The collection is updated periodically to track recent advances in **computational biology**. 📬 **Contact:** If you have questions and suggestions, feel free to reach out **Ye Zhang** at **zhangye_zoe@163.com**
@@ -8,8 +8,8 @@ This repository curates representative papers in **multi-omics research**, along
 - [📚 00. Review Article](#00-review-article)
 
 - [🧬 01. Multi-omics Integration](#01-multi-omics-integration)
-  - [Single-Cell Model](#single-cell-model)
-  - [Spatial Model](#spatial-model)
+  <!-- - [Single-Cell Model](#single-cell-model)
+  - [Spatial Model](#spatial-model) -->
 
 - [🧠 02. Regulatory Inference](#02-regulatory-inference)
 
@@ -21,7 +21,7 @@ This repository curates representative papers in **multi-omics research**, along
 
 - [🧬 06. Multi-omics Generation](#05-multi-omics-generation)
 
-- [📊 07. Models, Tasks and Datasets Summary](#06-models-tasks-and-datasets-summary)
+- [📊 07. Models, Tasks and Datasets Summary](#07-models-tasks-and-datasets-summary)
 
 ### 00. Review Article
 
