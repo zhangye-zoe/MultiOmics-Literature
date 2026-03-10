@@ -1,7 +1,7 @@
 ## 📚 Multi-Omics Literature Collection
 
 
-This repository curates representative papers in **multi-omics research**, along with **personal reading Status**. The collection is updated periodically to track recent advances in **computational biology**. 📬 **Contact:** If you have questions and suggestions, feel free to reach out **Ye Zhang** at **zhangye_zoe@163.com**
+This repository curates representative papers in **multi-omics research**, along with **personal reading notes**. The collection is updated periodically to track recent advances in **computational biology**. 📬 **Contact:** If you have questions and suggestions, feel free to reach out **Ye Zhang** at **zhangye_zoe@163.com**
 
 ---
 
