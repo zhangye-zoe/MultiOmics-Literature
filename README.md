@@ -42,9 +42,18 @@ This repository curates representative papers in **multi-omics research**, along
   > The paper reviews statistical and computational methods for analyzing longitudinal omics data. It summarizes modeling approaches, functional data analysis, classification, survival analysis, and emerging methods for multi-omics integration and network-based modeling.
 
 
-- **[A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false)**  `Briefings in Bioinformatics, 2025`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
-  > The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
+- **[A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false)** — `Briefings in Bioinformatics, 2025`
+
+<p>
+<a href="https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false">
+<img src="https://img.shields.io/badge/Paper-Survey-red">
+</a>
+<a href="https://zhangye-zoe.github.io/Status/scMRDR">
+<img src="https://img.shields.io/badge/Status-Reading-green">
+</a>
+</p>
+
+> The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
 
 - **[A comprehensive review of spatial transcriptomics data alignment and integration](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false)**  `Nucleic Acids Research, 2025`   
   [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
