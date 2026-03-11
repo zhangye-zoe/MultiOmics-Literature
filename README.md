@@ -31,31 +31,31 @@ This repository curates representative papers in **multi-omics research**, along
 
 
 - **[Longitudinal omics data analysis: approaches and applications](https://www.sciencedirect.com/science/article/pii/S2001037026000012)** `Computational and Structural Biotechnology Journal, 2026`  
-[![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.sciencedirect.com/science/article/pii/S2001037026000012) [![Status](https://img.shields.io/badge/Status-Reading-green)](#)
+[![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.sciencedirect.com/science/article/pii/S2001037026000012) [![Status](https://img.shields.io/badge/Status-Reading-green)](#)  
   > The paper reviews statistical and computational methods for analyzing longitudinal omics data. It summarizes modeling approaches, functional data analysis, classification, survival analysis, and emerging methods for multi-omics integration and network-based modeling.
 
 
 - **[A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false)**  `Briefings in Bioinformatics, 2025`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
 
 - **[A comprehensive review of spatial transcriptomics data alignment and integration](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false)**  `Nucleic Acids Research, 2025`   
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) 
+  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The study reviews methodologies for spatial transcriptomics data alignment and integration, discusses key challenges, and proposes a general analysis pipeline. Existing approaches are categorized into statistical mapping, image processing and registration, and graph-based methods according to this framework.
 
 - **[Omics data integration in computational biology viewed through the prism of machine learning paradigms](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full)**  `Frontiers in Bioinformatics, 2023`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) 
+  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2023.1191961/full) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper systematically reviews the paradigms, methods, and datasets developed for multi-omics data integration. The survey categorizes existing approaches into vertical integration, horizontal integration, and diagonal / mosaic integration.
   > <strong><span style="color:rgb(110, 18, 150);"> ⭐ Recommended as a starting review for researchers new to this field.</span></strong>
 
 
 - **[Computational principles and challenges in single-cell data integration](https://www.nature.com/articles/s41587-021-00895-7)**  `Nature Biotechnology, 2021`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.nature.com/articles/s41587-021-00895-7) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) 
+  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.nature.com/articles/s41587-021-00895-7) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > This is an authoritative review paper that introduces and defines several fundamental concepts in single-cell multi-omics integration.
 
 
 - **[A Review of Integrative Imputation for Multi-Omics Datasets](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.570255/full)**  `Frontiers in Genetics, 2020`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.570255/full) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) 
+  [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.570255/full) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper provides a summary of imputation methods used in multi-omics datasets, covering approaches such as single-omics imputation, genotype imputation, gene expression data imputation, and epigenomic data imputation.
 
 
@@ -65,8 +65,7 @@ This repository curates representative papers in **multi-omics research**, along
 **Single-Cell Model**
 
 
-- **[Bridging Unpaired Single-Cell Multimodal Data for Integrative Analyses with SuperMap](https://www.nature.com/articles/s41467-025-60333-z)**  
-  `Proceedings of the National Academy of Sciences (PNAS), 2026`  
+- **[Bridging Unpaired Single-Cell Multimodal Data for Integrative Analyses with SuperMap](https://www.nature.com/articles/s41467-025-60333-z)** `Proceedings of the National Academy of Sciences (PNAS), 2026`  
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper proposes a statistical framework for multi-omics alignment. Specifically, the ATAC modality is used to infer the unobserved RNA modality, while enforcing a distributional constraint to ensure that the inferred RNA follows a similar distribution as the observed RNA.
 
