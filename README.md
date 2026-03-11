@@ -37,7 +37,6 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches**  `Briefings in Bioinformatics, 2025`  
   <a href="https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false"><img src="https://img.shields.io/badge/Paper-Survey-red" style="vertical-align:middle;"></a> <a href="https://zhangye-zoe.github.io/Status/scMRDR"><img src="https://img.shields.io/badge/Status-Reading-green" style="vertical-align:middle;"></a>
-
   > The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
 
 
