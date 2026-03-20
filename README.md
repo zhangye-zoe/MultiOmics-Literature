@@ -39,6 +39,9 @@ This repository curates representative papers in **multi-omics research**, along
   [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/bib/article/26/4/bbaf355/8220754?utm_source=chatgpt.com&login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper summarizes multi-omics integration methods ranging from classical statistical models to modern deep learning approaches. The statistical approaches include correlation- and covariance-based methods, matrix factorization, probabilistic models, and kernel methods. The deep learning approaches include neural networks, graph neural networks, variational autoencoders, and methods incorporating maximum mean discrepancy regularization.
 
+
+
+
 - **[A comprehensive review of spatial transcriptomics data alignment and integration](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false)**  `Nucleic Acids Research, 2025`   
   [![Paper](https://img.shields.io/badge/Paper-Survey-red)](https://academic.oup.com/nar/article/53/12/gkaf536/8174767?login=false) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The study reviews methodologies for spatial transcriptomics data alignment and integration, discusses key challenges, and proposes a general analysis pipeline. Existing approaches are categorized into statistical mapping, image processing and registration, and graph-based methods according to this framework.
@@ -113,7 +116,7 @@ This repository curates representative papers in **multi-omics research**, along
 ### 02. Regulatory Inference
 
 
-- **[MultiGATE: integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning](https://www.nature.com/articles/s41467-025-63418-x)** `Nature Communications, 2025`
+- **[MultiGATE: integrative analysis and regulatory inference in spatial multi-omics data via graph representation learning](https://www.nature.com/articles/s41467-025-63418-x)** `Nature Communications, 2025`  
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
   > The paper presents 
 
@@ -124,6 +127,11 @@ This repository curates representative papers in **multi-omics research**, along
 
 ### 03. Trajectory Inference
 
+- **[Inferring differential dynamics from multilineage, multi-omic, and multi-sample singlecell data with MultiVeloVAE](https://www.nature.com/articles/s41467-025-66287-6)** `Nature Communications, 2025`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/welch-lab/MultiVeloVAE) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents 
+  
+
 - **[STORIES: learning cell fate landscapes from spatial transcriptomics using optimal transport](https://www.nature.com/articles/s41592-025-02855-4)** `Nature Methods, 2025`  
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/cantinilab/stories) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
   > The paper propose STORIES based on optimal transport to infer cell trajectories from spatial transcriptomics data.
@@ -133,11 +141,52 @@ This repository curates representative papers in **multi-omics research**, along
 
 - **[TIVelo: RNA velocity estimation leveraging cluster-level trajectory inference](https://www.nature.com/articles/s41467-025-61628-x)** `Nature Communications, 2025`  
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/cuhklinlab/TIVelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-TIVelo-brown)](https://tivelo.readthedocs.io/en/latest/)
-  > The paper presents 
+  > The paper presents
+
+
+- **[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo](https://www.nature.com/articles/s41467-024-55146-5)** `Nature Communications, 2024`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/welch-lab/VeloVAE) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents
+
+- **[DeepVelo: deep learning extends RNA velocity to multi-lineage systems with cell-specific kinetics](https://link.springer.com/article/10.1186/s13059-023-03148-9)** `Genome Biology, 2024`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/bowang-lab/DeepVelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents
+
+
+- **[A relay velocity model infers cell-dependent RNA velocity](https://www.nature.com/articles/s41587-023-01728-5)** `Nature Biotechnology, 2023`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/GuangyuWangLab2021/cellDancer) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents
+
+
+- **[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells](https://www.nature.com/articles/s41592-023-01994-w)** `Nature Methods, 2023`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/YosefLab/velovi) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents
+
+
+
+
+- **[GraphVelo allows for accurate inference of multimodal velocities and molecular mechanisms for single cells](https://www.nature.com/articles/s41467-025-62784-w)** `Nature Communications, 2025`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/xing-lab-pitt/GraphVelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-GraphVelo-brown)](https://graphvelo.readthedocs.io/en/latest/)
+  > The paper presents
+
 
 
 - **[Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction](https://www.nature.com/articles/s41587-022-01476-y)** `Nature Biotechnology, 2022`  
   [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/welch-lab/MultiVelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-MultiVelo-brown)](https://multivelo.readthedocs.io/en/latest/)
+  > The paper presents 
+
+- **[UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference](https://www.nature.com/articles/s41467-022-34188-7)** `Nature Communications, 2022`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/StatBiomed/UniTVelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  > The paper presents 
+
+
+- **[Generalizing RNA velocity to transient cell states through dynamical modeling](https://www.nature.com/articles/s41587-020-0591-3)** `Nature Biotechnology, 2022`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/theislab/scvelo) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-ScVelo-brown)](https://scvelo.readthedocs.io/en/stable/)
+  > The paper presents 
+
+
+- **[Pyro-Velocity: Probabilistic RNA Velocity inference  from single-cell data](https://www.biorxiv.org/content/10.1101/2022.09.12.507691v1)** `ArXiv, 2022`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/pinellolab/pyrovelocity) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
   > The paper presents 
 
 
