@@ -129,7 +129,7 @@ This repository curates representative papers in **multi-omics research**, along
 ### 03. Trajectory Inference
 
 - **[Inferring differential dynamics from multilineage, multi-omic, and multi-sample singlecell data with MultiVeloVAE](https://www.nature.com/articles/s41467-025-66287-6)** `Nature Communications, 2025`  
-  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/welch-lab/MultiVeloVAE) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR)
+  [![Code](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/welch-lab/MultiVeloVAE) [![Status](https://img.shields.io/badge/Status-Reading-green)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-MultiVeloVAE-brown)](https://multivelovae.readthedocs.io/en/latest/)
   > The paper presents 
   
 
