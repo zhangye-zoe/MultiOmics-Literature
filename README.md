@@ -23,11 +23,11 @@ This repository curates representative papers in **multi-omics research**, along
 
 - [🧬 06. Multi-omics Generation](#06-multi-omics-generation)
 
-- [🔬 07. Omics and Pathology](#07-omics-pathology)
+- [🔬 07. Omics and Pathology](#07-omics-and-pathology)
 
-- [🧊 08. Spatial Omics alignment](#08-spatial-omics)
+- [🧊 08. Spatial Omics Alignment](#08-spatial-omics-alignment)
 
-- [📊 09. Models, Tasks and Datasets Summary](#09-models-tasks-and-datasets-summary)
+<!-- - [📊 09. Models, Tasks and Datasets Summary](#09-models-tasks-and-datasets-summary) -->
 
 ---
 
@@ -74,13 +74,13 @@ This repository curates representative papers in **multi-omics research**, along
 
 
 - **[Bridging Unpaired Single-Cell Multimodal Data for Integrative Analyses with SuperMap](https://www.nature.com/articles/s41467-025-60333-z)** `Proceedings of the National Academy of Sciences (PNAS), 2026`  
-  [![Code](https://img.shields.io/badge/Code-GitHub-brightgreen)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Reading-orange)](https://zhangye-zoe.github.io/Status/scMRDR)  
+  [![Code](https://img.shields.io/badge/Code-GitHub-brightgreen)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Finish-cyan)](https://zhangye-zoe.github.io/Status/scMRDR)  
   > The paper proposes a statistical framework for multi-omics alignment. Specifically, the ATAC modality is used to infer the unobserved RNA modality, while enforcing a distributional constraint to ensure that the inferred RNA follows a similar distribution as the observed RNA.
 
 
 
 - **[scMRDR: A Scalable and Flexible Framework for Unpaired Single-Cell Multi-Omics Data Integration](https://arxiv.org/abs/2510.24987)**  `Neural Information Processing Systems (NeurIPS), 2025`  
-  [![Code](https://img.shields.io/badge/Code-GitHub-brightgreen)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Reading-orange)](...) [![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-purple)](#)
+  [![Code](https://img.shields.io/badge/Code-GitHub-brightgreen)](https://github.com/sjl-sjtu/scMRDR) [![Status](https://img.shields.io/badge/Status-Finish-cyan)](...) [![Spotlight](https://img.shields.io/badge/NeurIPS-Spotlight-purple)](https://openreview.net/forum?id=tI04KmK27S&referrer=%5Bthe%20profile%20of%20Peng%20Ye%5D(%2Fprofile%3Fid%3D~Peng_Ye4))
   > The paper proposes a β-VAE–based disentanglement framework that decomposes cellular representations into modality-shared and modality-specific latent components, and evaluates the proposed method on biological conservation, batch correction, and modality integration tasks.
 
 - **[scMODAL: a general deep learning framework for comprehensive single-cell multi-omics data alignment with feature link](https://www.nature.com/articles/s41467-025-60333-z)** `Nature Communications, 2025`  
@@ -288,15 +288,8 @@ This repository curates representative papers in **multi-omics research**, along
   > The paper presents a pathology analysis tool that supports patch splitting, feature extraction, cell segmentation, and other workflows in pathology image analysis. In addition, the tool supports integration with omics data.
 
 
+### 08. Spatial Omics Alignment
 
----
-
-### 08. Models, Tasks and Datasets Summary
-
-
-| Methods | Tasks | Datasets | Data Links |
-|--------|-------|----------|------------|
-| SuperMap | Multi-omics alignment<br>Cross-modal prediction | STATegra<br>scNMT-seq | https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75417<br>https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6819 |
-| - | - | - | - |
-| - | - | - | - |
-| - | - | - | - |
+- **[LazySlide: accessible and interoperable whole-slide image analysis](https://www.nature.com/articles/s41592-026-03044-7)** `Nature Methods, 2026`  
+  [![Code](https://img.shields.io/badge/Code-GitHub-brightgreen)](https://github.com/RendeiroLab/LazySlide) [![Status](https://img.shields.io/badge/Status-Finish-cyan)](https://zhangye-zoe.github.io/Status/scMRDR) [![Docs](https://img.shields.io/badge/Docs-LazySlide-brown)](https://lazyslide.readthedocs.io/en/stable/)
+  > The paper presents a pathology analysis tool that supports patch splitting, feature extraction, cell segmentation, and other workflows in pathology image analysis. In addition, the tool supports integration with omics data.
