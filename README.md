@@ -35,7 +35,7 @@ This repository curates representative papers in **multi-omics research**, along
 
 
 - **[Longitudinal omics data analysis: approaches and applications](https://www.sciencedirect.com/science/article/pii/S2001037026000012)** `Computational and Structural Biotechnology Journal, 2026`  
-  [![Paper](https://img.shields.io/badge/Paper-Survey-hot pink)](https://www.sciencedirect.com/science/article/pii/S2001037026000012) [![Status](https://img.shields.io/badge/Status-Note-orange)](#)  
+  [![Paper](https://img.shields.io/badge/Paper-Survey-hotpink)](https://www.sciencedirect.com/science/article/pii/S2001037026000012) [![Status](https://img.shields.io/badge/Status-Note-orange)](#)  
   > The paper reviews statistical and computational methods for analyzing longitudinal omics data. It summarizes modeling approaches, functional data analysis, classification, survival analysis, and emerging methods for multi-omics integration and network-based modeling.
 
 
